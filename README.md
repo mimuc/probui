@@ -1,2 +1,2 @@
 # probui
-A probabilistic reinterpretation of bounding boxes for mobile touch GUIs.
+A probabilistic reinterpretation of bounding boxes for creating dynamic and adaptive mobile touch GUIs.
