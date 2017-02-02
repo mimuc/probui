@@ -1,5 +1,5 @@
 # ProbUI
-ProbUI is a probabilistic reinterpretation of bounding boxes for creating dynamic and adaptive mobile touch GUIs. It's available as an Android framework here. To get started and find out what it's all about, watch the [video](www.medien.ifi.lmu.de/probui/video) and check the [paper](http://www.medien.ifi.lmu.de/forschung/publikationen/detail?pub=buschek2017chi).
+ProbUI is a probabilistic reinterpretation of bounding boxes for creating dynamic and adaptive mobile touch GUIs. It's available as an Android framework here. To get started and find out what it's all about, you can watch the [video](www.medien.ifi.lmu.de/probui/video) and check the [paper](http://www.medien.ifi.lmu.de/forschung/publikationen/detail?pub=buschek2017chi).
 
 
 
